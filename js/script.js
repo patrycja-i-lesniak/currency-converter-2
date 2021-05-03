@@ -1,7 +1,5 @@
 // currency converter - version 2 - converts PLN to EUR based on the default / own exchange rate
 
-
-
  {
   const welcome = () => {
     console.log("Hello and welcome!");
