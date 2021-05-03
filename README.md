@@ -1,5 +1,7 @@
 # CURRENCY CONVERTER - ver. 2
 
+![Screen](https://i.ibb.co/fngs46j/screen.png)
+
 Simple currency converter - version 2 - converts PLN to EUR based on the default / own exchange rate
 
 Author: **Patrycja Leśniak**
