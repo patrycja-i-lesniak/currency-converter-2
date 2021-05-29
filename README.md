@@ -24,4 +24,4 @@ Project is created with:
 
 
 ## Demo
-[Kliknij i odwiedź stronę] (https://trishya800.github.io/currency-converter-2/)
+[Kliknij i odwiedź stronę] (https://patrycja-i-lesniak.github.io/currency-converter-2/)
